@@ -19,12 +19,15 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 To install the required modules
 
-INSTALLATION
+### `installation`
 
 Git clone this repo
 open terminal and run npm install
 opens in browser
 happy coding!
+
+### `errors`
+
 ERRORS Error on 'react-native start' , "error Invalid regular expression: "
 
 Navigate to this folder: C:\xampp\htdocs[foldername]\node_modules\metro-config\src\defaults
